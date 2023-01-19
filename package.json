@@ -1,0 +1,23 @@
+{
+  "name": "red-contrib-terneo-local",
+  "version": "1.0.0",
+  "description": "node-red-contrib-terneo-local",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serbe/node-red-contrib-terneo-local.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/serbe/node-red-contrib-terneo-local/issues"
+  },
+  "homepage": "https://github.com/serbe/node-red-contrib-terneo-local#readme",
+  "dependencies": {
+    "got": "^12.5.3"
+  },
+  "type": "module"
+}
