@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/serbe/node-red-contrib-terneo-local#readme",
   "dependencies": {
-    "got": "^12.5.3"
+    "axios": "^1.2.3",
+    "got": "^12.5.3",
+    "node-fetch": "^3.3.0"
   },
   "type": "module"
 }
